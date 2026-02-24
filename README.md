@@ -26,28 +26,6 @@ MMIP-polimi/
 └── Assignments/    # Assignment notebooks
 ```
 
----
-
-## 🔬 Laboratory Sessions
-
-| Lab | Topic |
-|-----|-------|
-| Lab 1 | TBD |
-| Lab 2 | TBD |
-| ... | ... |
-
----
-
-## 📝 Assignments
-
-| Assignment | Topic |
-|------------|-------|
-| Assignment 1 | TBD |
-| Assignment 2 | TBD |
-| ... | ... |
-
----
-
 ## 🚀 Getting Started
 
 All notebooks are designed to run on **Google Colab**. To open a notebook:
@@ -56,9 +34,3 @@ All notebooks are designed to run on **Google Colab**. To open a notebook:
 2. Select **File → Open notebook → GitHub**.
 3. Enter the repository URL: `https://github.com/Thomas-Fabbris/MMIP-polimi`
 4. Select the desired notebook.
-
----
-
-## 📄 License
-
-This repository is licensed under the terms of the [LICENSE](LICENSE) file included in this repository.
